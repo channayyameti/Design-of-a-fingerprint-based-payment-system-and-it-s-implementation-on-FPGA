@@ -1,0 +1,2 @@
+# Design-of-a-fingerprint-based-payment-system-and-it-s-implementation-on-FPGA
+The rapid growth of digital payments has made life more convenient, but it has also led to a significant increase in financial fraud. Security is the biggest concern in cashless transactions. Current systems rely on knowledge-based factors like PINs or possession-based factors like cards, which can be easily compromised.
